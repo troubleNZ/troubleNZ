@@ -1,7 +1,7 @@
-<p align="center">
+
 ### 🤖 Thanks for visiting 🤖
 ![Visitor Count](https://profile-counter.glitch.me/troubleNZ/count.svg)
-</p>
+
 
 
 <p align="center">
