@@ -1,6 +1,9 @@
-### 🤖 Thanks for visiting 🤖
-![Visitor Count](https://profile-counter.glitch.me/troubleNZ/count.svg)
+
 <p align="center">
+  <tr>
+    ### 🤖 Thanks for visiting 🤖
+    ![Visitor Count](https://profile-counter.glitch.me/troubleNZ/count.svg)
+  </tr>
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/troubleNZ">
