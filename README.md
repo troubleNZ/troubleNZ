@@ -8,13 +8,7 @@
     </td>
   </tr>
 </p>
-<p align="center">
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      
-    </td>
-  </tr>
-</p>
+
 <!--
 **troubleNZ/troubleNZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
