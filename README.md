@@ -1,4 +1,5 @@
 ### 🤖 Thanks for visiting 🤖
+![Visitor Count](https://profile-counter.glitch.me/troubleNZ/count.svg)
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -10,7 +11,7 @@
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      ![Visitor Count](https://profile-counter.glitch.me/troubleNZ/count.svg)
+      
     </td>
   </tr>
 </p>
@@ -27,6 +28,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Visitor Count](https://profile-counter.glitch.me/troubleNZ/count.svg)
 -->
 
