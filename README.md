@@ -1,7 +1,7 @@
-<div style="text-align: center">
+
     ### 🤖 Thanks for visiting 🤖
     ![Visitor Count](https://profile-counter.glitch.me/troubleNZ/count.svg)
-</div>
+
 <p align="center">
   
   <tr>
