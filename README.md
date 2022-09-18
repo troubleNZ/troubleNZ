@@ -1,5 +1,12 @@
 ### 🤖 Thanks for visiting 🤖
-
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <a href="https://github.com/troubleNZ">
+      <img src="https://github-readme-stats.vercel.app/api/?username=troubleNZ&theme=dark&show_icons=true"/>
+    </td>
+  </tr>
+</p>
 <!--
 **troubleNZ/troubleNZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
