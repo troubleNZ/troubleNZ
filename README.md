@@ -1,8 +1,10 @@
 
 <p align="center">
   <tr>
+    <td align="center" style="padding=0;width=50%;">
     ### 🤖 Thanks for visiting 🤖
     ![Visitor Count](https://profile-counter.glitch.me/troubleNZ/count.svg)
+    </td>
   </tr>
   <tr>
     <td align="center" style="padding=0;width=50%;">
