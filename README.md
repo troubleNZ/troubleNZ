@@ -1,7 +1,7 @@
 
 ### 🤖 Thanks for visiting 🤖
-![Visitor Count](https://profile-counter.glitch.me/troubleNZ/count.svg)
-
+<!--![Visitor Count](https://profile-counter.glitch.me/troubleNZ/count.svg)-->
+![](https://komarev.com/ghpvc/?username=troubleNZ&label=VIEWS)
 
 
 <p align="center">
