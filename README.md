@@ -7,6 +7,7 @@
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/troubleNZ">
       <img src="https://github-readme-stats.vercel.app/api/?username=troubleNZ&theme=dark&show_icons=true"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=troubleNZ&langs_count=5&theme=tokyonight"/>
     </td>
   </tr>
 </p>
