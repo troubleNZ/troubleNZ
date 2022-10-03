@@ -6,8 +6,8 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/troubleNZ">
-      <img src="https://github-readme-stats.vercel.app/api/?username=troubleNZ&theme=dark&show_icons=true"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=troubleNZ&langs_count=5&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api/?username=troubleNZ&theme=rose_pine&show_icons=true"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=troubleNZ&langs_count=5&theme=rose_pine"/>
     </td>
   </tr>
 </p>
