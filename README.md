@@ -1,3 +1,8 @@
+[![Image of https://github.com/troubleNZ/profiler](https://github.com/troubleNZ/profiler/blob/master/svg/profile/badge.svg)](https://github.com/troubleNZ/profiler)
+![Followers](https://img.shields.io/github/followers/troublenz?style=social)
+![Stars](https://img.shields.io/github/stars/troublenz?style=social)
+![Twitch](https://img.shields.io/twitch/status/troubleshootr?style=social)
+
 
 ### 🤖 Thanks for visiting 🤖
 
