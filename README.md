@@ -4,7 +4,7 @@
 ![Twitch](https://img.shields.io/twitch/status/troubleshootr?style=social)
 
 
-### 🤖 Thanks for visiting 🤖
+### 🤖 FiveM fan, LUA dabbler, scripting noob 🤖
 
 <p align="center">
   
