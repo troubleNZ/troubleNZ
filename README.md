@@ -1,7 +1,8 @@
-[![Image of https://github.com/troubleNZ/profiler](https://github.com/troubleNZ/profiler/blob/master/svg/profile/badge.svg)](https://github.com/troubleNZ/profiler)
+[![profiler](https://github.com/troubleNZ/profiler/blob/master/svg/profile/badge.svg)](https://github.com/troubleNZ/profiler)
 ![Followers](https://img.shields.io/github/followers/troublenz?style=social)
 ![Stars](https://img.shields.io/github/stars/troublenz?style=social)
 ![Twitch](https://img.shields.io/twitch/status/troubleshootr?style=social)
+![Ko-Fi](https://img.shields.io/badge/Donate-Ko--Fi-important?style=flat&logo=kofi)
 ### 🤖 FiveM fan, LUA dabbler, scripting noob 🤖
 ![ ](https://github-readme-stats.vercel.app/api/?username=troubleNZ&theme=transparent&show_icons=true)
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=troubleNZ&langs_count=5&theme=transparent)
