@@ -1,6 +1,6 @@
 <!-- [![profiler](https://github.com/troubleNZ/profiler/blob/master/svg/profile/badge.svg)](https://github.com/troubleNZ/profiler) -->
 <!-- https://gitviews.com/user/troublenz.svg?style=flat-square&label-color=%23000&color=%23ff00ff -->
-![GitHub Repos Views](https://gitviews.com/user/troublenz/repos.svg?style=flat-square&base=3200&label-color=%23000&color=%23ff00ff)
+![GitHub Repos Views](https://gitviews.com/user/troublenz/repos.svg?style=social&base=3200)
 ![Followers](https://img.shields.io/github/followers/troublenz?style=social)
 ![Stars](https://img.shields.io/github/stars/troublenz?style=social)
 [![Ko-Fi](https://img.shields.io/badge/Donate-Ko--Fi-important?style=flat&logo=kofi)](https://ko-fi.com/troubleshooter)
